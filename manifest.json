@@ -1,1 +1,15 @@
-
+{
+    "name": "غورب - جدول المعلمات",
+    "short_name": "غورب",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#667eea",
+    "theme_color": "#667eea",
+    "icons": [
+        {
+            "src": "https://i.ibb.co/XZkS6ZQG/1024.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
